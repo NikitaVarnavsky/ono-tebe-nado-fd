@@ -91,7 +91,6 @@ a {
   gap: 20px;
   letter-spacing: calc(1em / 10 * 3);
 }
-
 .aligned-text {
   text-align: start;
 }
