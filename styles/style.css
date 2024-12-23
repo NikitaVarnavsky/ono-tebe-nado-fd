@@ -41,7 +41,6 @@ a {
 .header__links-list {
   display: flex;
   gap: 32px;
-  /* padding-top: 10px; */
 }
 .header__links-list-item {
   list-style-type: circle;
@@ -55,7 +54,6 @@ a {
 
 .header__link-logo {
   display: flex;
-  /* padding-top: 17px; */
 }
 
 .header__logo {
@@ -69,7 +67,6 @@ a {
   line-height: 24.3px;
   text-align: start;
   justify-self: end;
-  /* padding-top: 12px; */
 }
 
 .address a {
@@ -294,7 +291,6 @@ a {
   max-width: 265px;
   text-align: start;
   justify-self: start;
-  padding-top: 1px;
 }
 
 .footer__menu {
